@@ -103,7 +103,7 @@ To format this project
 
 To run this project, you will need to add the following environment variables to your .env or .env.local file
 
-`VITE_BASE_URL`
+`VITE_GITHUB_API_BASE_URL`
 
 ## Acknowledgements
 
