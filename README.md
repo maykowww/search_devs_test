@@ -31,10 +31,6 @@ All versions of tools
 [![](https://img.shields.io/badge/Vite-^4.1.0-pink.svg)](https://vitejs.dev/)
 [![](https://img.shields.io/badge/Turbo-Latest-red.svg)](https://turbo.build)
 
-## Demo
-
-Insert gif or link to demo
-
 ## Run Local
 
 To run this project in local machine
